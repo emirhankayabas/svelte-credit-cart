@@ -1,5 +1,5 @@
 # svelte-credit-cart
-Svelte kredi kartı oluşturma uygulama kodları.
+Credit card masking operations using Svelte.
 
 # demo
 https://credit-cart-emirhankayabas.vercel.app/
